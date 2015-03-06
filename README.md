@@ -1,2 +1,2 @@
 # datasciencecoursera
-Master branch for Coursera Data Scientist courses 
+Branch for Coursera Data Scientist courses 
