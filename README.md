@@ -1,5 +1,5 @@
 # Files for datasciencecoursera
-## A scondary header
+## A secondary header
 ### A tertiary header
 And finally a plain text line
 * List line 1
